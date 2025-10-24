@@ -12,6 +12,7 @@
     <string name="foreground_service_failed_channel_description">Klicken, um Gateway-Clients wieder zu verbinden</string>
     <string name="message_failed_notifications_descriptions">Benachrichtigungen erhalten, wenn Nachrichten fehlschlagen</string>
 
+    <string name="foreground_service_image_transmission_descriptions">Bildübertragung per SMS</string>
     <string name="gateway_client_service_notification_id" translatable="false">100000000</string>
     <string name="message_failed_notification_id" translatable="false">100000001</string>
 
@@ -391,6 +392,32 @@
     <string name="block_contact">Kontakt blockieren</string>
     <string name="text_body_cannot_empty">Textkörper darf nicht leer sein!</string>
     <string name="secure">Sicher</string>
+    <string name="stop">Stoppen</string>
+    <string name="pause">Pause</string>
+    <string name="sending_stop">Senden gestoppt…</string>
+    <string name="waiting_to_send_of">Warte auf das Senden von %1$d von %2$d</string>
+    <string name="failed_to_send_message">Senden der Nachricht fehlgeschlagen</string>
+    <string name="retry">Wiederholen</string>
+    <string name="queued_for_sending">Zum Senden in die Warteschlange gestellt …</string>
+    <string name="will_resume_sending_shortly">Der Versand wird in Kürze fortgesetzt …</string>
+    <string name="not_default_sms_app">Keine Standard-SMS-App</string>
+    <string name="english">Englisch1</string>
+    <string name="image_transmission_service">Bildübertragungsdienst</string>
+    <string name="aspect_ratio_is_locked_width_and_height_will_be_adjusted_proportionally">Das Seitenverhältnis ist gesperrt. Breite und Höhe werden proportional angepasst.</string>
+    <string name="quality">Qualität</string>
+    <string name="resize">Größe ändern</string>
+    <string name="compression">Kompression</string>
+    <string name="_0">0%</string>
+    <string name="apply">Anwenden</string>
+    <string name="size">Größe</string>
+    <string name="edit_image">Bild bearbeiten</string>
+    <string name="width">Breite</string>
+    <string name="height">Höhe</string>
+    <string name="kb">%1$d KB</string>
+    <string name="sms_est">SMS Est.</string>
+    <string name="sending_images">Bilder werden gesendet…</string>
+    <string name="of_sent">%1$d von %2$d gesendet…</string>
+    <string name="_100">100%</string>
 
 
 </resources>
